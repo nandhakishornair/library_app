@@ -1,0 +1,21 @@
+{
+  "name": "library_app_back",
+  "version": "1.0.0",
+  "description": "mean stack app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nandhakishor",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongodb": "*",
+    "mongoose": "*",
+    "nodemon": "^2.0.19"
+  }
+}
